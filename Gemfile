@@ -7,7 +7,7 @@ gem "propshaft"
 # Use sqlite3 as the database for Active Record
 gem "sqlite3", ">= 2.1"
 gem "carrierwave"
-gem "mimemagic", "~> 0.3.0"
+gem "mimemagic", "~> 0.4.3"
 gem "net-ssh"
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", ">= 5.0"
